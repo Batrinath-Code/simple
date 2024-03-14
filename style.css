@@ -1,0 +1,12 @@
+.mainbox{
+    outline: 2px solid black;
+    height: 70vh;
+    width: 90vw;
+}
+
+.box{
+    font-size: 3rem;
+
+    position: relative;
+}
+
